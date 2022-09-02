@@ -1,0 +1,1 @@
+web: gunicorn azure_rest_api.wsgi --workers 2

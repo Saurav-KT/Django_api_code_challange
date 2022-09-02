@@ -1,0 +1,8 @@
+---
+applications:
+- name: customer-service
+  instances: 1
+  memory: 1GB
+  disk_quota: 1GB
+  buildpack: dicf_python_buildpack_latest
+  host: customer-service
