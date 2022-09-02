@@ -1,4 +1,4 @@
---index-url http://dcsartifacts.dell.com/artifactory/api/pypi/python/simple/ --trusted-host dcsartifacts.dell.com
+--index-url http://dcsartifacts.xx.com/artifactory/api/pypi/python/simple/ --trusted-host dcsartifacts.xx.com
 gunicorn==20.1.0
 Django==4.0.7
 PyJWT==2.4.0
