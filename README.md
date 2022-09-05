@@ -1,1 +1,1 @@
-# Python Django Rest APIs
+# API development using Python Django Rest Framework 
